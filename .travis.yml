@@ -1,8 +1,4 @@
 language: python
 python:
   - "3.4"
-  # PyPy versions
-# command to install dependencies
-install:
-  - pip3 install pytest
-script: pytest3 download_lean.py
+script: ./download_lean.py
