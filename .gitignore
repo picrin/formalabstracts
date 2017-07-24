@@ -3,3 +3,4 @@
 /_target
 /leanpkg.path
 lean-*
+venv
