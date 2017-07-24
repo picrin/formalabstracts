@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import tarfile, subprocess, sys
 
 lean_URL = "https://github.com/leanprover/lean/releases/download/v3.2.0/lean-3.2.0-linux.tar.gz"
